@@ -23,6 +23,7 @@
     "@types/node": "^25.0.10",
     "@vitejs/plugin-vue": "^6.0.3",
     "@vitest/ui": "^4.0.18",
+    "netlify-cli": "^23.15.1",
     "vite": "^7.3.0",
     "vite-plugin-vue-devtools": "^8.0.5",
     "vitest": "^4.0.18"
